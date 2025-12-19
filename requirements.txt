@@ -1,0 +1,10 @@
+streamlit
+polars
+pandas
+plotnine
+sklearn
+scikit-learn
+pandas
+matplotlib
+warnings-filter
+base64
